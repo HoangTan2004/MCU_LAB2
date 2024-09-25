@@ -9,5 +9,7 @@ All other branches are exercises for Lab 2, including:
 
 1. `STM32` folder: Source code on STM32F103C6.
 2. `Proteus` folder: Schematic file (**.pdsprj**), is used to simulate the system on Proteus (using STM32F103C6).
-### exercise_1
+### exercise1
 Display number **1** on the first LED and number **2** on the second LED with the switching time between two LEDs is half of second.
+### exercise2
+Display four 7-segment LEDs with the switching time is half of second and blinking two LEDs every second independently.
