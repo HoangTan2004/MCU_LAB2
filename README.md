@@ -13,3 +13,7 @@ All other branches are exercises for Lab 2, including:
 Display number **1** on the first LED and number **2** on the second LED with the switching time between two LEDs is half of second.
 ### exercise2
 Display four 7-segment LEDs with the switching time is half of second and blinking two LEDs every second independently.
+### exercise3
+Display four 7-segment LEDs with an array of 4 integer numbers `led_buffer[4]`
+### exercise4
+Set the frequency of four 7-segment LEDs to 1Hz
