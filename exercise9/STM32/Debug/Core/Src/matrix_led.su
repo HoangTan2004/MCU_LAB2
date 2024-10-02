@@ -1,0 +1,2 @@
+matrix_led.c:22:6:updateColMatrix	16	static
+matrix_led.c:61:6:updateLEDBuffer	16	static
