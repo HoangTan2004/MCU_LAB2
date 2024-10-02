@@ -17,3 +17,11 @@ Display four 7-segment LEDs with the switching time is half of second and blinki
 Display four 7-segment LEDs with an array of 4 integer numbers `led_buffer[4]`
 ### exercise4
 Set the frequency of four 7-segment LEDs to 1Hz
+### exercise5
+Generate values for the array `led_buffer` with the function `updateClockBuffer`
+### exercise6
+Add `TIME_CYCLE` for the software timer
+### exercise9
+Display the character **A** on the LED matrix
+### exercise10
+Shift left the character on the LED matrix
